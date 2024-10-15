@@ -12,3 +12,4 @@ C:\Users\Nelmac\Documents\estudos\csharp\ConversorBinario\obj\Debug\net8.0\refin
 C:\Users\Nelmac\Documents\estudos\csharp\ConversorBinario\obj\Debug\net8.0\ConversorBinario.pdb
 C:\Users\Nelmac\Documents\estudos\csharp\ConversorBinario\obj\Debug\net8.0\ConversorBinario.genruntimeconfig.cache
 C:\Users\Nelmac\Documents\estudos\csharp\ConversorBinario\obj\Debug\net8.0\ref\ConversorBinario.dll
+C:\Users\Nelmac\Documents\estudos\csharp\conversorbinario\obj\Debug\net8.0\ConversorBinario.sourcelink.json
