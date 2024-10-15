@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nelmac\\Documents\\estudos\\csharp\\conversorbinario\\ConversorBinario.csproj": {}
+    "C:\\Users\\Nelmac\\Documents\\estudos\\csharp\\ConversorBinario\\ConversorBinario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nelmac\\Documents\\estudos\\csharp\\conversorbinario\\ConversorBinario.csproj": {
+    "C:\\Users\\Nelmac\\Documents\\estudos\\csharp\\ConversorBinario\\ConversorBinario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nelmac\\Documents\\estudos\\csharp\\conversorbinario\\ConversorBinario.csproj",
+        "projectUniqueName": "C:\\Users\\Nelmac\\Documents\\estudos\\csharp\\ConversorBinario\\ConversorBinario.csproj",
         "projectName": "ConversorBinario",
-        "projectPath": "C:\\Users\\Nelmac\\Documents\\estudos\\csharp\\conversorbinario\\ConversorBinario.csproj",
+        "projectPath": "C:\\Users\\Nelmac\\Documents\\estudos\\csharp\\ConversorBinario\\ConversorBinario.csproj",
         "packagesPath": "C:\\Users\\Nelmac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nelmac\\Documents\\estudos\\csharp\\conversorbinario\\obj\\",
+        "outputPath": "C:\\Users\\Nelmac\\Documents\\estudos\\csharp\\ConversorBinario\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nelmac\\AppData\\Roaming\\NuGet\\NuGet.Config"
