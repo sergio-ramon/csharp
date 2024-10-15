@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Starter")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ConversorBinario")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dda2180c0ef9a645ab4b8bcbf662ee610c264de1")]
-[assembly: System.Reflection.AssemblyProductAttribute("Starter")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Starter")]
+[assembly: System.Reflection.AssemblyProductAttribute("ConversorBinario")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ConversorBinario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
