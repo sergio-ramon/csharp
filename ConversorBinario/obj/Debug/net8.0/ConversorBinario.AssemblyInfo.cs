@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConversorBinario")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a15743cc2fb55cc3bd8fd50a80052be21809b2d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db686153abdbe639f6eec962b702b1a5ba7e179f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConversorBinario")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConversorBinario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
