@@ -1,0 +1,15 @@
+C:\Users\Nelmac\Documents\estudos\csharp\CalculoFatorial\bin\Debug\net8.0\CalculoFatorial.exe
+C:\Users\Nelmac\Documents\estudos\csharp\CalculoFatorial\bin\Debug\net8.0\CalculoFatorial.deps.json
+C:\Users\Nelmac\Documents\estudos\csharp\CalculoFatorial\bin\Debug\net8.0\CalculoFatorial.runtimeconfig.json
+C:\Users\Nelmac\Documents\estudos\csharp\CalculoFatorial\bin\Debug\net8.0\CalculoFatorial.dll
+C:\Users\Nelmac\Documents\estudos\csharp\CalculoFatorial\bin\Debug\net8.0\CalculoFatorial.pdb
+C:\Users\Nelmac\Documents\estudos\csharp\CalculoFatorial\obj\Debug\net8.0\CalculoFatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nelmac\Documents\estudos\csharp\CalculoFatorial\obj\Debug\net8.0\CalculoFatorial.AssemblyInfoInputs.cache
+C:\Users\Nelmac\Documents\estudos\csharp\CalculoFatorial\obj\Debug\net8.0\CalculoFatorial.AssemblyInfo.cs
+C:\Users\Nelmac\Documents\estudos\csharp\CalculoFatorial\obj\Debug\net8.0\CalculoFatorial.csproj.CoreCompileInputs.cache
+C:\Users\Nelmac\Documents\estudos\csharp\CalculoFatorial\obj\Debug\net8.0\CalculoFatorial.sourcelink.json
+C:\Users\Nelmac\Documents\estudos\csharp\CalculoFatorial\obj\Debug\net8.0\CalculoFatorial.dll
+C:\Users\Nelmac\Documents\estudos\csharp\CalculoFatorial\obj\Debug\net8.0\refint\CalculoFatorial.dll
+C:\Users\Nelmac\Documents\estudos\csharp\CalculoFatorial\obj\Debug\net8.0\CalculoFatorial.pdb
+C:\Users\Nelmac\Documents\estudos\csharp\CalculoFatorial\obj\Debug\net8.0\CalculoFatorial.genruntimeconfig.cache
+C:\Users\Nelmac\Documents\estudos\csharp\CalculoFatorial\obj\Debug\net8.0\ref\CalculoFatorial.dll
