@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ParOuImpar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5030423566044c2d97fd486e9bcad408ae32029")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad465c9456484f3dbe7af6c3438d6f73e87aa64b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ParOuImpar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ParOuImpar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
