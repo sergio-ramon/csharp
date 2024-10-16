@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Starter", "Starter\Starter.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversorBinario", "..\ConversorBinario\ConversorBinario.csproj", "{6F6C4930-FFCD-4DC7-BADF-35980910AA79}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParOuImpar", "..\ParOuImpar\ParOuImpar.csproj", "{4BB3C670-F653-4AE8-9CDE-AEA6DC6E1F44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6F6C4930-FFCD-4DC7-BADF-35980910AA79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F6C4930-FFCD-4DC7-BADF-35980910AA79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F6C4930-FFCD-4DC7-BADF-35980910AA79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BB3C670-F653-4AE8-9CDE-AEA6DC6E1F44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BB3C670-F653-4AE8-9CDE-AEA6DC6E1F44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BB3C670-F653-4AE8-9CDE-AEA6DC6E1F44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BB3C670-F653-4AE8-9CDE-AEA6DC6E1F44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
